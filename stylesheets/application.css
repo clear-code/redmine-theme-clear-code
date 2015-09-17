@@ -1,0 +1,16 @@
+@import url(../../../stylesheets/application.css);
+
+p {
+  line-height: 150%;
+}
+
+p code {
+  background-color: #fafafa;
+  border: 1px solid #e2e2e2;
+  padding: 0 4px;
+  margin: 0 2px;
+}
+
+div.wiki pre {
+  white-space: pre-wrap;
+}
