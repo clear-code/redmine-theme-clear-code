@@ -1,0 +1,5 @@
+@import url(../../../stylesheets/application.css);
+
+div.wiki pre {
+  white-space: pre-wrap;
+}
